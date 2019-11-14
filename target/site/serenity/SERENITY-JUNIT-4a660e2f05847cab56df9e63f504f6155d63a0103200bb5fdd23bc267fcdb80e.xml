@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Traductor google" skipped="0" tests="1" time="38.51" timestamp="2019-10-22 05:37:18"><testcase name="Traducir de Inglés a Español"><failure message="La palabra no pudo ser traducida - &#10;Expected: &quot;hfbvbv&quot;&#10;     but: was &quot;cheese&quot;" type="java.lang.AssertionError">La palabra no pudo ser traducida - 
+Expected: "hfbvbv"
+     but: was "cheese"</failure><system-err>La palabra no pudo ser traducida - 
+Expected: "hfbvbv"
+     but: was "cheese"&#13;
+co.com.prueba.certificacion.stepdefinitions.TraductorGoogleStepDefinition.ellaPuedeVerLaPalabraEnLaPantalla(TraductorGoogleStepDefinition.java:35)&#13;
+✽.ella puede ver la palabra "cheese" en la pantalla(src/test/resources/features/traductor_google.feature:8)&#13;
+</system-err></testcase></testsuite>
